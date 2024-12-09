@@ -1,13 +1,4 @@
-﻿  Encryption.cpp
-  IRSensor.cpp
-  LidarSensor.cpp
-  MAP.cpp
-  Mapper.cpp
-  Point.cpp
-  Record.cpp
-  RobotOperator.cpp
-  SafeNavigation.cpp
-  Generating Code...
+﻿  RobotControler.cpp
 FestoRobotAPILib.lib(FestoRobotAPI.obj) : warning LNK4099: PDB '' was not found with 'FestoRobotAPILib.lib(FestoRobotAPI.obj)' or at ''; linking object as if no debug info
 FestoRobotAPILib.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'FestoRobotAPILib.lib(pch.obj)' or at ''; linking object as if no debug info
-  OOP_Robotics_Project.vcxproj -> C:\Users\Cem Levent\Desktop\OOP_Grup3_Project\OOP_Robotics_Project\x64\Debug\OOP_Robotics_Project.exe
+  OOP_Robotics_Project.vcxproj -> C:\Users\Cem Levent\Desktop\OOP_Grup3_Project\RobotControlSystem\OOP_Robotics_Project\x64\Debug\OOP_Robotics_Project.exe
